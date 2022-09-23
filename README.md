@@ -1,11 +1,11 @@
 # Grupo 4 - SPD<br>
 Materia: Sistemas de Procesamiento de Datos<br>
 Docentes:<br>
-·         Scarafilo, Germán<br>
-·         Corsaro, Christian<br>
+·         Scarafilo, Germán
+·         Corsaro, Christian
 Integrantes:<br>
 ·         Gargiulo Nicola, Luca Franco<br>
-·         Escobar, Raúl<br>
-·         Cortés, Santiago<br>
-·         Acosta, Nicolas<br>
-·         Fernandez, Julian<br>
+·         Escobar, Raúl
+·         Cortés, Santiago
+·         Acosta, Nicolas
+·         Fernandez, Julian
