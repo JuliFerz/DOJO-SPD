@@ -3,7 +3,7 @@ Materia: Sistemas de Procesamiento de Datos<br>
 Docentes:<br>
 ·         Scarafilo, Germán
 ·         Corsaro, Christian
-Integrantes:<br>
+<br>Integrantes:<br>
 ·         Gargiulo Nicola, Luca Franco<br>
 ·         Escobar, Raúl
 ·         Cortés, Santiago
