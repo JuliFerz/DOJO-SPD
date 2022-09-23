@@ -4,7 +4,7 @@ Docentes:<br>
 ·         Scarafilo, Germán
 <br>·         Corsaro, Christian
 <br>Integrantes:<br>
-·         Gargiulo Nicola, Luca Franco<br>
+·         Gargiulo Nicola, Luca Franco
 <br>·         Escobar, Raúl
 <br>·         Cortés, Santiago
 <br>·         Acosta, Nicolas
