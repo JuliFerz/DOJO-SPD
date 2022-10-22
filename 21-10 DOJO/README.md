@@ -1,4 +1,4 @@
-# Grupo 4 - SPD<br>
+# Grupo 3 - SPD<br>
 Materia: Sistemas de Procesamiento de Datos<br>
 Docentes:<br>
 ·         Scarafilo, Germán
